@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="error_network">No Internet</string>
+</resources>
